@@ -6,7 +6,7 @@
 
     <groupId>com.jsunsoft.commons</groupId>
     <artifactId>commons-lang</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>Commons-lang</name>
     <description>Java utility classes</description>
